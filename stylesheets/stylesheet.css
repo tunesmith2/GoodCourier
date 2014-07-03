@@ -128,13 +128,12 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 #images {
-	width: 600px;
+	width: 800px;
 	padding-left: 40px;
 	float: left;
 }
 #images h1 {
 	width: 200px;
-	padding-right: 10px;
 	float: right;
 }
 

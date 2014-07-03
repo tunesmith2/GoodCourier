@@ -129,7 +129,8 @@ aside#sidebar p.repo-owner a {
 }
 #images {
 	width: 700px;
-	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 5px;
 	float: left;
 }
 #images h1 {

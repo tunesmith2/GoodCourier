@@ -134,6 +134,7 @@ aside#sidebar p.repo-owner a {
 }
 #images h1 {
 	width: 200px;
+	display: block;
 	float: right;
 }
 

@@ -132,6 +132,11 @@ aside#sidebar p.repo-owner a {
 	padding-left: 40px;
 	float: left;
 }
+#images h1 {
+	width: 200px;
+	padding-right: 10px;
+	float: right;
+}
 
 a.button {
   width: 134px;
